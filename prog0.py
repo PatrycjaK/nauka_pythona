@@ -21,6 +21,5 @@ def paragon(koszyk):
     return do_zaplaty
 
 
-
 koszyk = paragon(produkt_cena)
 print(koszyk)
